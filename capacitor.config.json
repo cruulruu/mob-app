@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "rally-app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
